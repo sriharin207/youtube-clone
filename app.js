@@ -1,5 +1,5 @@
 async function getData(){
-    let data = await fetch("/data.json")
+    let data = await fetch("./data.json")
     if(data.ok){
         let arr = await data.json();
         let outPut = "";
