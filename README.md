@@ -1,6 +1,6 @@
 # YouTube Clone
 
-This is a static homepage of Youtube created by using HTML and CSS .
+This is a homepage of Youtube created by using HTML,CSS and JavaScript.
 
 By clicking on the thumbnail/vedio title it will be re-directed to actual youtube vedio .
 
