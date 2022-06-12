@@ -10,6 +10,7 @@
     <link rel="stylesheet" href="css/vedio-preview.css">
     <link rel="stylesheet" href="css/header.css">
     <link rel="stylesheet" href="css/side-bar.css">
+    <script src="https://kit.fontawesome.com/b41351610e.js" crossorigin="anonymous"></script>
 </head> 
 <body">
     <main>
@@ -17,7 +18,7 @@
             <nav class="nav-bar">
                 <div class="left-menu">
                     <img class="hamburger-menu" src="images/icons/hamburger-menu.svg" alt="" onclick="sidePanel()">
-                    <img class="youtube-logo" src="images/icons/youtube-logo.svg" alt="">
+                    <a href="https://www.youtube.com/" target="_blank"><img class="youtube-logo" src="images/icons/youtube-logo.svg" alt=""></a>
                 </div>
                 <div class="middle-menu">
                     <input type="text" placeholder="Search" class="search-box">
@@ -51,33 +52,101 @@
                 </div>
             </nav>
         </header>
+
+        <div id="ext-side-bar">
+            <div class="side-links">
+                <div><i class="fa-solid fa-house"></i></div>
+                <div>Home</div>
+            </div>
+            
+            <div class="side-links">
+                <div><i class="fa-solid fa-compass"></i></div>
+                <div>Explore</div>
+            </div>
+
+            <div class="side-links">
+                <div><i class="far fa-play-circle"></i></div>
+                <div>Shorts</div>
+            </div>
+
+            <div class="side-links">
+                <div><i class="fa-solid fa-video"></i></div>
+                <div>Subscriptions</div>
+            </div>
+
+
+            <div class="side-links">
+                <div><i class="far fa-images"></i></div>
+                <div>Library</div>
+            </div>
+
+            <div class="side-links">
+                <div><i class="fa-solid fa-clock-rotate-left"></i></div>
+                <div>History</div>
+            </div>
+
+            <div class="side-links">
+                <div><i class="fa-solid fa-magnifying-glass"></i></div>
+                <div>Your Videos</div>
+            </div>
+
+            <div class="side-links">
+                <div><i class="fas fa-random"></i></div>
+                <div>Watch Later</div>
+            </div>
+
+            <div class="side-links">
+                <div><i class="fa-solid fa-thumbs-up"></i></div>
+                <div>Liked videos</div>
+            </div>
+
+            <div class="side-links" id="collapse" onclick="showMore()">
+                <div><i class="fa-solid fa-angle-down"></i></div>
+                <div>Show more</div>
+            </div>
+
+            <div class="show-more">
+                <div class="side-links">
+                    <div><i class="fa-solid fa-rectangle-list"></i></div>
+                    <div>Azure Fundamentals</div>
+                </div>
+                <div class="side-links">
+                    <div><i class="fa-solid fa-rectangle-list"></i></div>
+                    <div>Python for Beginners</div>
+                </div>
+                <div class="side-links">
+                    <div><i class="fa-solid fa-rectangle-list"></i></div>
+                    <div>NASA</div>
+                </div>
+                <div class="side-links" id="collapse1" onclick="showFewer()">
+                    <div><i class="fa-solid fa-angle-up"></i></div>
+                    <div>Show Fewer</div>
+                </div>
+            </div>
+        </div>
+
        <div class="side-bar">
            <div class="links">
-               <img src="images/icons/home.svg" alt="">
-               <div>Home</div>
+                <img src="images/icons/home.svg" alt="">
+                <div>Home</div>
            </div>
            <div class="links">
                 <img src="images/icons/explore.svg" alt="">
-               <div>Explore</div>
+                <div>Explore</div>
            </div>
            <div class="links">
                 <img src="images/icons/subscriptions.svg" alt="">
-               <div>Subscriptions</div>
-           </div>
-           <div class="links">
-                <img src="images/icons/originals.svg" alt="">
-               <div>Originals</div>
+                <div>Subscriptions</div>
            </div>
            <div class="links">
                 <img src="images/icons/youtube-music.svg" alt="">
-               <div>Youtube Music</div>
+                <div>Youtube Music</div>
            </div>
            <div class="links">
                 <img src="images/icons/library.svg" alt="">
                 <div>Library</div>
-           </div> 
-       </div>
-       
+           </div>
+        </div>       
         <div class="container">
         </div>
     </main>

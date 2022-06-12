@@ -44,5 +44,27 @@ async function getData(){
 
 getData()
 
+function sidePanel(){
+    var x = document.getElementById("ext-side-bar");
+    if (x.style.display === "block") {
+        x.style.display = "none";
+        document.querySelector(".container").style.opacity = "1"
+    } else {
+        x.style.display = "block";
+        document.querySelector(".container").style.opacity = "0.7"
+    }
+}
+
+function showMore(){
+    document.querySelector(".show-more").style.display = "block"
+    document.getElementById("collapse").style.display = "none"
+}
+
+function showFewer(){
+    document.querySelector(".show-more").style.display = "none";
+    document.getElementById("collapse").style.display = "flex"
+
+}
+
 
 

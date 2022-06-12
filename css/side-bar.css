@@ -4,12 +4,11 @@
     bottom: 0px;
     top:60px;
     width:70px;
-    flex-direction: column;
     background-color: white;
     z-index: 200;
 }
 
-.links{
+.side-bar .links{
     height:76px;
     font-size: 10px;
     display: flex;
@@ -22,11 +21,40 @@
 .links div{
     margin-top: 5px;
 }
-.links:hover{
+.links:hover , .side-links:hover {
     background-color: rgb(232, 229, 229);
     cursor: pointer;
 }
 
 .side-bar img{
-    width: 24px;
+    width: 30px;
+}
+
+#ext-side-bar{
+    position: fixed;
+    top: 60px;
+    width: 235px;
+    z-index: 201;
+    height: 100vh;
+    background-color: white;
+    display:none;
+}
+
+.side-links{
+    display: flex;
+    align-items: center;
+    column-gap: 10px;
+    height:45px;
+    padding-left: 25px;
+}
+
+.show-more{
+    display: none;
+}
+.collapse{
+    display: block;
+}
+
+#collapse1{
+    display: flex;
 }
