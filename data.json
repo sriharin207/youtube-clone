@@ -1,0 +1,194 @@
+[
+    {
+        "ytLink" : "https://www.youtube.com/watch?v=KXkBZCe699A",
+        "thumbnail" : {
+            "picture" : "images/thumbnails/thumbnail-1.webp",
+            "vediotime" : "02:26"
+        },
+        "channelinfo" : {
+            "channellink" : "https://www.youtube.com/channel/UC0m-80FnNY2Qb7obvTL_2fA",
+            "picture" : "images/channel-pic/channel-1.jpeg"
+        },
+        "vedioinfo" : {
+            "vediodesc" : "How does Microsoft Azure work?",
+            "vedioauthor" : "Microsoft Azure",
+            "vediosats" : "638K views · 3 years ago"
+        }
+    },
+    {
+        "ytLink" : "https://www.youtube.com/watch?v=74_7LrRe5DI",
+        "thumbnail" : {
+            "picture" : "images/thumbnails/thumbnail-2.webp",
+            "vediotime" : "01:40"
+        },
+        "channelinfo" : {
+            "channellink" : "https://www.youtube.com/channel/UCsBjURrPoezykLs9EqgamOA",
+            "picture" : "images/channel-pic/channel-2.jpeg"
+        },
+        "vedioinfo" : {
+            "vediodesc" : "Perl in 100 Seconds",
+            "vedioauthor" : "Fireship",
+            "vediosats" : "120K views . 17 hours ago"
+        }
+    },
+    {
+        "ytLink" : "https://www.youtube.com/watch?v=TOMcCNNdSl0",
+        "thumbnail" : {
+            "picture" : "images/thumbnails/thumbnail-3.webp",
+            "vediotime" : "21:16"
+        },
+        "channelinfo" : {
+            "channellink" : "https://www.youtube.com/channel/UCjGp9cTDDWYvjTO67H4-6AQ",
+            "picture" : "images/channel-pic/channel-3.jpg"
+        },
+        "vedioinfo" : {
+            "vediodesc" : "EMOTIONAL* Elon Musk Motivational Video (MUST WATCH!)",
+            "vedioauthor" : "Outcast Motivation",
+            "vediosats" : "1.7M views · 7 months ago"
+        }
+    },
+    {
+        "ytLink" : "https://www.youtube.com/watch?v=m6fex9DzxWc",
+        "thumbnail" : {
+            "picture" : "images/thumbnails/thumbnail-4.webp",
+            "vediotime" : "06:20"
+        },
+        "channelinfo" : {
+            "channellink" : "https://www.youtube.com/channel/UCW5BaXolL-jh1wAmZC78leQ",
+            "picture" : "images/channel-pic/channel-4.jpg"
+        },
+        "vedioinfo" : {
+            "vediodesc" : "Inside Apple's Insane $5 Billion Headquarters",
+            "vedioauthor" : "Simply Tech",
+            "vediosats" : "2.4M views · 4 months ago"
+        }
+    },
+    {
+        "ytLink" : "https://www.youtube.com/watch?v=05XoA7IhTp8",
+        "thumbnail" : {
+            "picture" : "images/thumbnails/thumbnail-5.webp",
+            "vediotime" : "14:28"
+        },
+        "channelinfo" : {
+            "channellink" : "https://www.youtube.com/channel/UCajiMK_CY9icRhLepS8_3ug",
+            "picture" : "images/channel-pic/channel-5.jpg"
+        },
+        "vedioinfo" : {
+            "vediodesc" : "M1 Ultra vs Intel PC and Docker",
+            "vedioauthor" : "Alex Ziskind",
+            "vediosats" : "64K views · 4 weeks ago"
+        }
+    },
+    {
+        "ytLink" : "https://www.youtube.com/watch?v=jgpVdJB2sKQ",
+        "thumbnail" : {
+            "picture" : "images/thumbnails/thumbnail-6.webp",
+            "vediotime" : "27:30"
+        },
+        "channelinfo" : {
+            "channellink" : "https://www.youtube.com/channel/UCFbNIlppjAuEX4znoulh0Cw",
+            "picture" : "images/channel-pic/channel-6.jpg"
+        },
+        "vedioinfo" : {
+            "vediodesc" : "Redis Crash Course",
+            "vedioauthor" : "Web Dev Simplified",
+            "vediosats" : "197K views . 10 months ago"
+        }
+    },
+    {
+        "ytLink" : "https://www.youtube.com/watch?v=7nPJAtmnGaY",
+        "thumbnail" : {
+            "picture" : "images/thumbnails/thumbnail-7.webp",
+            "vediotime" : "10:49"
+        },
+        "channelinfo" : {
+            "channellink" : "https://www.youtube.com/channel/UCladvNK2aJu3SWu0Hm8hSIA",
+            "picture" : "images/channel-pic/channel-7.jpg"
+        },
+        "vedioinfo" : {
+            "vediodesc" : "The Legend Of Dhoni | A Tribute To MS Dhoni",
+            "vedioauthor" : "CricBuff Official",
+            "vediosats" : "1.1M views · 9 months ago"
+        }
+    },
+    {
+        "ytLink" : "https://www.youtube.com/watch?v=TK1CVmP4Rvs",
+        "thumbnail" : {
+            "picture" : "images/thumbnails/thumbnail-8.webp",
+            "vediotime" : "41:00"
+        },
+        "channelinfo" : {
+            "channellink" : "https://www.youtube.com/channel/UCH7xyou6RXO8PKwMZ4nQ64Q",
+            "picture" : "images/channel-pic/channel-8.jpg"
+        },
+        "vedioinfo" : {
+            "vediodesc" : "Apigee API Management Platform Demo",
+            "vedioauthor" : "Apigee",
+            "vediosats" : "9.2K views · 2 years ago"
+        }
+    },
+    {
+        "ytLink" : "https://www.youtube.com/watch?v=a9__D53WsUs",
+        "thumbnail" : {
+            "picture" : "images/thumbnails/thumbnail-9.webp",
+            "vediotime" : "03:31"
+        },
+        "channelinfo" : {
+            "channellink" : "https://www.youtube.com/channel/UCd6MoB9NC6uYN2grvUNT-Zg",
+            "picture" : "images/channel-pic/channel-9.jpg"
+        },
+        "vedioinfo" : {
+            "vediodesc" : "What is AWS? | Amazon Web Services",
+            "vedioauthor" : "Amazon Web Services",
+            "vediosats" : "678K views · 2 years ago"
+        }
+    },
+    {
+        "ytLink" : "https://www.youtube.com/watch?v=Q-BpqyOT3a8&t=7s",
+        "thumbnail" : {
+            "picture" : "images/thumbnails/thumbnail-10.webp",
+            "vediotime" : "18:37"
+        },
+        "channelinfo" : {
+            "channellink" : "https://www.youtube.com/channel/UCH7xyou6RXO8PKwMZ4nQ64Q",
+            "picture" : "images/channel-pic/channel-10.jpg"
+        },
+        "vedioinfo" : {
+            "vediodesc" : "What Is A RESTful API? Explanation of REST & HTTP",
+            "vedioauthor" : "Traversy Media",
+            "vediosats" : "1.3M views · 3 years ago"
+        }
+    },
+    {
+        "ytLink" : "https://www.youtube.com/watch?v=5OLtteIwwNs",
+        "thumbnail" : {
+            "picture" : "images/thumbnails/thumbnail-11.webp",
+            "vediotime" : "23:33"
+        },
+        "channelinfo" : {
+            "channellink" : "https://www.youtube.com/c/ColdFusion",
+            "picture" : "images/channel-pic/channel-11.jpg"
+        },
+        "vedioinfo" : {
+            "vediodesc" : "Three Men Lost in Space – The Apollo 13 Disaster",
+            "vedioauthor" : "ColdFusion",
+            "vediosats" : "9.7M views · 1 year ago"
+        }
+    },
+    {
+        "ytLink" : "https://www.youtube.com/watch?v=w7ejDZ8SWv8",
+        "thumbnail" : {
+            "picture" : "images/thumbnails/thumbnail-12.webp",
+            "vediotime" : "01:45:47"
+        },
+        "channelinfo" : {
+            "channellink" : "https://www.youtube.com/c/TraversyMedia",
+            "picture" : "images/channel-pic/channel-10.jpg"
+        },
+        "vedioinfo" : {
+            "vediodesc" : "React JS Crash Course",
+            "vedioauthor" : "Traversy Media",
+            "vediosats" : "2.2M views · 1 year ago"
+        }
+    }
+]
